@@ -2,4 +2,4 @@
 
 Course website: https://miketrizna.github.io/2020-01-13-nih/
 
-EtherPad: TBD
+EtherPad: https://pad.carpentries.org/2020-01-13-nih
